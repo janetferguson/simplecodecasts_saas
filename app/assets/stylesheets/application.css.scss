@@ -20,6 +20,10 @@
 @import "font-awesome";
 @import url('//fonts.googleapis.com/css?family=Indie+Flower');
 
+.jumbotron {
+  background-image: asset-data-url('images.jpg');
+}
+
 .footer {  
   font-family: 'Indie Flower', sans-serif;
   font-size: 1.5em;
