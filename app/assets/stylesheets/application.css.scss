@@ -19,4 +19,14 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+.footer {  
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 1.5em;
+  color: #337ab7;
+}
 
+footer a:hover, .fa-star:hover {
+  color: #5cb85c;
+  font-style: italic;
+  text-decoration: none;
+}
